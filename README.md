@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
 
-# 🎵 ProMusic (Discord Music Bot)
+# 🎵 GEAR (Discord Music Bot)
 > ProMusic is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
 
 ## Installation
@@ -54,7 +54,7 @@ Currently available locales are:
 
 * 🎶 Using YouTube Url
 
-`/play https://www.youtube.com/c/Vevo`
+`/play https://www.youtube.com/c/ScienceGearYT`
 
 * 🔎 Playing music via Name
 
@@ -65,6 +65,6 @@ Currently available locales are:
 `/search Imperial March Trap Remix by Goblins from Mars`
 
 
-Main Credits go to [@eritislami](https://github.com/eritislami) for making evobot so pro..
-Get evobot repo here - 
-https://github.com/eritislami/evobot
+
+Get GEAR repo here - 
+https://github.com/ScienceGear/Gear
